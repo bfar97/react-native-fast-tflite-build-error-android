@@ -3015,6 +3015,7 @@ __metadata:
     prettier: 2.8.8
     react: 18.2.0
     react-native: 0.74.3
+    react-native-fast-tflite: ^1.3.0
     react-test-renderer: 18.2.0
     typescript: 5.0.4
   languageName: unknown
@@ -7926,6 +7927,16 @@ __metadata:
   version: 17.0.2
   resolution: "react-is@npm:17.0.2"
   checksum: 9d6d111d8990dc98bc5402c1266a808b0459b5d54830bbea24c12d908b536df7883f268a7868cfaedde3dd9d4e0d574db456f84d2e6df9c4526f99bb4b5344d8
+  languageName: node
+  linkType: hard
+
+"react-native-fast-tflite@npm:^1.3.0":
+  version: 1.3.0
+  resolution: "react-native-fast-tflite@npm:1.3.0"
+  peerDependencies:
+    react: "*"
+    react-native: "*"
+  checksum: 8bb8ee0ae611a028fc2efbc68faa8f32038be300171b6f3f99eaaf27c39237645042d497dac1fa9fe283680b85e6ea9b7f9bd6a81eeee12e76dc5ec2e0e022fa
   languageName: node
   linkType: hard
 
